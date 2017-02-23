@@ -1,0 +1,51 @@
+.orange-background{
+  background-color: orange;
+  
+}
+.welcome{
+  font-size: 50px;
+  color:teal;
+  
+}
+.links{
+  color:teal;
+}
+.mainContent{
+  color: black;
+  font-size: 20px;
+  
+}
+
+.products{
+color:teal;
+  font-size:36px;
+  border-top:50px solid #252525;
+}
+.productsList{
+  background-color:#ffffff;
+  color: teal;
+  font-size:20px;
+  
+  
+}
+.footer1{
+  background-color:#252525;
+  color: teal;
+  font-size:24px; 
+}
+.Name {
+  background-color:#252525;
+  color: teal;
+  font-size:20px;
+}
+.navbar {
+ background-color:#252525; 
+}
+.icon-bar {
+  background-color: teal;
+}
+
+.circle{
+  width:200px;
+  
+}
